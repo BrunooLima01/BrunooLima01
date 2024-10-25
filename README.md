@@ -86,9 +86,7 @@ Estou sempre em busca de novas colaborações e desafios no mundo da tecnologia.
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Brunosoilvalima&theme=tokyonight) | ![](https://github-readme-streak-stats.herokuapp.com/?user=Brunosoilvalima&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=1A1B27&stroke=35AFA3&ring=BF91F3&fire=BF91F3&currStreakNum=BF91F3&sideNums=BF91F3&currStreakLabel=BF91F3&sideLabels=BF91F3&dates=35AFA3) |
 | :-: | :-: |
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Brunosoilvalima&bg_color=000000&color=ffffff&line=d782e8&point=f0f0f0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BrunoLima01&bg_color=050505&color=7b00d0&line=f2f2f2&point=000000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Brunosoilvalima&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt=Brunosoilvalima github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brunosoilvalima&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
